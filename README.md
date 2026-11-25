@@ -43,13 +43,13 @@ I am particularly interested in robotics perception, defense technologies and lo
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/c/00599C" width="44" height="44" alt="C" /><br/><sub><b>C</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" /><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br/><sub><b>C#</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" /><br/><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/c/00599C" width="44" height="44" alt="C" /><br/><sub><b>&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" /><br/><sub><b>&nbsp;&nbsp;C++&nbsp;&nbsp;</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br/><sub><b>&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" /><br/><sub><b>&nbsp;&nbsp;Dart&nbsp;&nbsp;</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" /><br/><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" /><br/><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" /><br/><sub><b>&nbsp;&nbsp;HTML&nbsp;&nbsp;</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" /><br/><sub><b>&nbsp;&nbsp;CSS&nbsp;&nbsp;</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React Native" /><br/><sub><b>React Native</b></sub></td>
   </tr>
 </table>
