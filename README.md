@@ -38,9 +38,23 @@ I am particularly interested in robotics perception, defense technologies and lo
 
 ### Technical Skills
 
+**Programming Languages**
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" alt="C" /><br/><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" /><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br/><sub><b>C#</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" /><br/><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="./assets/asm.svg" width="44" height="44" alt="x86 Assembly" /><br/><sub><b>x86 Assembly</b></sub></td>
+    <td align="center" width="96"><img src="./assets/asm.svg" width="44" height="44" alt="LC-3 Assembly" /><br/><sub><b>LC-3 Assembly</b></sub></td>
+  </tr>
+</table>
+
 | Area | Technologies |
 |---|---|
-| **Languages** | Python, C, C++, C#, Dart, JavaScript, x86 Assembly, LC-3 Assembly |
 | **AI & Computer Vision** | YOLOv8, OpenCV, NumPy, Matplotlib, Jupyter, Google Colab |
 | **Embedded & Hardware** | NVIDIA Jetson Nano, Arduino, STM32, Proteus 8, serial communication |
 | **Mobile** | Flutter, React Native, AdMob, Google Play publishing |
@@ -53,4 +67,7 @@ I am particularly interested in robotics perception, defense technologies and lo
 
 ---
 
-<sub>If you find my work useful, you can support it on [Buy Me a Coffee](https://buymeacoffee.com/mmuzaffergw).</sub>
+<div align="center">
+  <sub>If you find my work useful, you can support it here:</sub><br/><br/>
+  <a href="https://buymeacoffee.com/mmuzaffergw"><img src="./assets/buy-me-a-coffee.svg" width="300" alt="Buy me a coffee" /></a>
+</div>

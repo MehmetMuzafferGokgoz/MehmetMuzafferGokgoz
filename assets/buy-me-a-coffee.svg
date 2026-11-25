@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="88" viewBox="0 0 340 88">
+  <defs>
+    <clipPath id="btn"><rect x="6" y="6" width="328" height="72" rx="16"/></clipPath>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE34D"/>
+      <stop offset="1" stop-color="#FFD000"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .label { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 25px; fill: #1a1a1a; }
+    .steam { fill: none; stroke: #7a5a3a; stroke-width: 2.6; stroke-linecap: round; opacity: 0; animation: steam 2.4s ease-out infinite; }
+    .s2 { animation-delay: .8s; }
+    .s3 { animation-delay: 1.6s; }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(6px); } 35% { opacity: .9; } 100% { opacity: 0; transform: translateY(-12px); } }
+    .cup { transform-box: fill-box; transform-origin: 50% 100%; animation: sip 3s ease-in-out infinite; }
+    @keyframes sip { 0%, 70%, 100% { transform: rotate(0deg); } 80% { transform: rotate(-7deg); } 90% { transform: rotate(4deg); } }
+    .shine { animation: shine 3.6s ease-in-out infinite; }
+    @keyframes shine { 0% { transform: translateX(-140px); } 55%, 100% { transform: translateX(460px); } }
+    .heart { transform-box: fill-box; transform-origin: center; animation: beat 1.4s ease-in-out infinite; }
+    @keyframes beat { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.25); } 30% { transform: scale(1); } 45% { transform: scale(1.18); } }
+  </style>
+
+  <!-- gölge ve düğme yüzeyi -->
+  <rect x="6" y="11" width="328" height="72" rx="16" fill="#C9A400"/>
+  <rect x="6" y="6" width="328" height="72" rx="16" fill="url(#face)"/>
+
+  <!-- kayan parıltı -->
+  <g clip-path="url(#btn)">
+    <g class="shine"><rect x="0" y="-10" width="70" height="110" fill="url(#shine)" transform="skewX(-20)"/></g>
+  </g>
+
+  <!-- buhar -->
+  <path class="steam" d="M45 30c-4-5 4-8 0-14"/>
+  <path class="steam s2" d="M53 30c-4-5 4-8 0-14"/>
+  <path class="steam s3" d="M61 30c-4-5 4-8 0-14"/>
+
+  <!-- fincan -->
+  <g class="cup">
+    <path d="M70 41h4a7 7 0 0 1 0 14h-4" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <path d="M37 36h34v13a17 17 0 0 1-17 17 17 17 0 0 1-17-17z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M39 39h30v4H39z" fill="#6F4E37"/>
+    <path d="M31 68h46" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- yazı -->
+  <text x="98" y="51" class="label">Buy me a coffee</text>
+  <path class="heart" d="M306 36c-3-5-11-4-11 2 0 5 11 11 11 11s11-6 11-11c0-6-8-7-11-2z" fill="#E0245E"/>
+</svg>
