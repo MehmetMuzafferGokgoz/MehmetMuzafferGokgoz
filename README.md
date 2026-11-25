@@ -47,12 +47,12 @@
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,dart,js&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,dart,js&theme=dark" alt="languages" /><br/>
 <img src="https://img.shields.io/badge/x86_Assembly-0d1117?style=for-the-badge&logo=intel&logoColor=00ff41" alt="asm" />
 <img src="https://img.shields.io/badge/LC--3_Assembly-0d1117?style=for-the-badge&logoColor=00ff41" alt="lc3" />
 
 **AI & Computer Vision**<br/>
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" /><br/>
 <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=yolo&logoColor=00ff41" alt="yolo" />
 <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ffff" alt="numpy" />
 <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=00ff41" alt="matplotlib" />
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=00ff41" alt="colab" />
 
 **Embedded Systems & Hardware**<br/>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino" /><br/>
 <img src="https://img.shields.io/badge/Jetson_Nano-0d1117?style=for-the-badge&logo=nvidia&logoColor=00ff41" alt="jetson" />
 <img src="https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=00ffff" alt="stm32" />
 <img src="https://img.shields.io/badge/Proteus_8-0d1117?style=for-the-badge&logoColor=00ff41" alt="proteus" />
