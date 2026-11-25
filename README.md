@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a0a,100:00ff41&height=240&section=header&text=MEHMET%20MUZAFFER%20G%C3%96KG%C3%96Z&fontSize=40&fontColor=00ff41&stroke=00ffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=%3E_%20Computer%20Vision%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20AI%20R%26D&descAlignY=62&descSize=17" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a0a,100:00ff41&height=240&section=header&text=MEHMET%20MUZAFFER%20G%C3%96KG%C3%96Z&fontSize=40&fontColor=00ff41&stroke=00ffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=%3E_%20Computer%20Vision%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20AI%20Research&descAlignY=62&descSize=17" alt="header" />
 
 <div align="center">
   <a href="https://github.com/MehmetMuzafferGokgoz">
