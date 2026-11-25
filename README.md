@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/MehmetMuzafferGokgoz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mehmet+Muzaffer+%F0%9F%91%8B;Software+Engineering+Student+%40+ISTUN;YOLOv8+%2B+Jetson+Nano+%3D+Real-time+Perception;Bare-metal+OS+%2F+x86+Assembly+%2F+QEMU;TUBITAK+2209-A+%E2%80%A2+Peer-reviewed+Paper+Published;Focused+on+AI+and+Robotics+Perception+R%26D+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mehmet+Muzaffer+%F0%9F%91%8B;Software+Engineering+Student+%40+ISTUN;YOLOv8+%2B+Jetson+Nano+%3D+Real-time+Perception;Bare-metal+OS+%2F+x86+Assembly+%2F+QEMU;TUBITAK+2209-A+%E2%80%A2+Peer-reviewed+Paper+Published;Focused+on+AI+and+Robotics+Perception+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MehmetMuzafferGokgoz&style=flat-square&color=00ff41&label=profile+views" alt="views" />
@@ -12,16 +12,9 @@
 
 ---
 
-## About Me
-
-```text
-name        : Mehmet Muzaffer Gökgöz
-education   : B.Sc. Software Engineering — Istanbul Health and Technology University (3rd year)
-              Associate Degree, Computer Programming — Tekirdağ Namık Kemal University
-focus       : [ Computer Vision, Deep Learning, Embedded Systems, Robotics Perception ]
-interests   : [ Defense Technologies, Low-level Systems, Mobile Apps ]
-research    : Deep learning-based driver drowsiness detection on NVIDIA Jetson Nano
-```
+<div align="center">
+  <img width="100%" src="./assets/about-me.svg" alt="About Me" />
+</div>
 
 ## Research
 
