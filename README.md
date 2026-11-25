@@ -30,7 +30,7 @@ I am particularly interested in robotics perception, defense technologies and lo
 | **[Flag Quiz – Guess All Flags](https://play.google.com/store/apps/details?id=com.mehmetmuzaffer.flagquizguessallflags)** | Geography quiz game published on Google Play, localized into 22 languages, with AdMob and in-app purchases | Flutter, Dart |
 | **Driver Drowsiness Detection** | Real-time fatigue detection and YOLO model benchmarking on an edge device | YOLOv8, OpenCV, Jetson Nano |
 | **License Plate Recognition** | Custom YOLOv8n detector trained on Google Colab and evaluated with local inference | Python, YOLOv8n, OpenCV |
-| **Bare-metal OS Kernel** | Operating system kernel written from scratch and run on QEMU | C, x86 Assembly, QEMU |
+| **Bare-metal OS Kernel** | Operating system kernel written from scratch and run on QEMU | C, QEMU |
 | **Ultrasonic Radar & LED Control** | Radar visualization over serial communication between Arduino and a C# desktop client, simulated in Proteus 8 | Arduino, C#, Proteus 8 |
 | **Color Sorting Conveyor** | Arduino-based automation system that sorts objects by color | Arduino, C++ |
 | **myvoc** | English vocabulary app built around spaced repetition | Flutter, Dart |
@@ -48,8 +48,9 @@ I am particularly interested in robotics perception, defense technologies and lo
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br/><sub><b>C#</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" /><br/><sub><b>Dart</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="./assets/asm.svg" width="44" height="44" alt="x86 Assembly" /><br/><sub><b>x86 Assembly</b></sub></td>
-    <td align="center" width="96"><img src="./assets/asm.svg" width="44" height="44" alt="LC-3 Assembly" /><br/><sub><b>LC-3 Assembly</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" /><br/><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" /><br/><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React Native" /><br/><sub><b>React Native</b></sub></td>
   </tr>
 </table>
 
