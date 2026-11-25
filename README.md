@@ -77,11 +77,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehmetMuzafferGokgoz&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ffff&text_color=c9d1d9&border_color=00ff41&border_radius=8" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetMuzafferGokgoz&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=8" alt="langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MehmetMuzafferGokgoz&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ffff&text_color=c9d1d9&border_color=00ff41&border_radius=8" alt="stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=MehmetMuzafferGokgoz&background=0D1117&border=00FF41&ring=00FF41&fire=00FFFF&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="streak" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=MehmetMuzafferGokgoz&background=0D1117&border=00FF41&ring=00FF41&fire=00FFFF&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="streak" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetMuzafferGokgoz&layout=compact&card_width=793&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=8" alt="langs" />
+  <br/><br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetMuzafferGokgoz&bg_color=0d1117&color=00ff41&line=00ffff&point=ffffff&area=true&area_color=00ff41&hide_border=true&radius=8" alt="activity" />
 </div>
 
