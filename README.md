@@ -103,6 +103,8 @@
   <a href="https://orcid.org/0009-0002-7522-2065"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=00ff41" alt="orcid" /></a>
   <a href="https://dergipark.org.tr/tr/pub/@mehmet-muzaffer-gokgoz"><img src="https://img.shields.io/badge/DergiPark-0d1117?style=for-the-badge&logo=bookstack&logoColor=00ffff" alt="dergipark" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.mehmetmuzaffer.flagquizguessallflags"><img src="https://img.shields.io/badge/Google_Play-0d1117?style=for-the-badge&logo=googleplay&logoColor=00ff41" alt="play" /></a>
+  <br/><br/>
+  <a href="https://buymeacoffee.com/mmuzaffergw"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer" alt="footer" />
