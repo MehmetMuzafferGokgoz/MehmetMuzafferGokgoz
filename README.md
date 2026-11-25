@@ -43,7 +43,7 @@ I am particularly interested in robotics perception, defense technologies and lo
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" alt="C" /><br/><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/c/00599C" width="44" height="44" alt="C" /><br/><sub><b>C</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" /><br/><sub><b>C++</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br/><sub><b>C#</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" /><br/><sub><b>Dart</b></sub></td>
