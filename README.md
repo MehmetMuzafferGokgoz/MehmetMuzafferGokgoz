@@ -38,7 +38,7 @@ I am particularly interested in robotics perception, defense technologies and lo
 
 ### Technical Skills
 
-**Programming Languages**
+**Languages I Know**
 
 <table>
   <tr>
